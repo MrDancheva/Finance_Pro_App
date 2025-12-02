@@ -80,4 +80,3 @@ MIT
 
 ---
 
-**Python'dan JavaScript'e Dönüştürüldü** 🐍 ➡️ ⚛️
